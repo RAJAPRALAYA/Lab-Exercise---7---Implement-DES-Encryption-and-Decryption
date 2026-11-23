@@ -40,6 +40,7 @@ print("Decrypted:", decrypted.decode())
 ```
 
 # Output:
+<img width="1042" height="160" alt="image" src="https://github.com/user-attachments/assets/20a79a88-e14e-49de-ba91-aca7db7fba31" />
 
 
 
